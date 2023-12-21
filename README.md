@@ -1,4 +1,5 @@
 <h4 align="center">A 2048 clone game that I made for practice on my <a href="https://www.youtube.com/@skinnydev" target="_blank">Youtube channel</a> live.</h4>
+<h4 align="center">You can access the live stream via <a href="https://www.youtube.com/live/i7LR9uAvuXI?si=5ILnk6hC1ObKFepS" target="_blank">this link</a> and build the entire game with me.</h4>
 
 <div align="center">
   <img src="https://miro.medium.com/v2/resize:fit:736/0*fqcYEYxuD3kS13mP.gif" alt="Centered Image">
@@ -12,7 +13,7 @@
 * Scriptable Objects
   - We used Scriptable Objects for our Tiles and their colors. Therefore, we handled our coloring easily by storing the Color data in our "TileStateSO.cs" script.
 * Events & Unity Events
-  - We used some Events in our code to make it cleaner and communicate between core mechanic scripts and UI scripts such as displaying the UI.
+  - We used some Events in our code to make the code suitable for clean code principles and we make sure that the  communication between core mechanic scripts and UI scripts such as displaying the UI is happening.
 * Singleton Pattern
   - Singleton is a creational design pattern that lets you ensure that a class has only one instance, while providing a global access point to this instance.
 * Observer Pattern
