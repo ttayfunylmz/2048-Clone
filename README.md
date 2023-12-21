@@ -23,7 +23,7 @@
 * You can easily click the 'Code' button (displayed as a green button) and then click 'Download ZIP'. Afterward, extract the ZIP file and open it with Unity
 
 ## Support
-<h4>You can check out my channel <a href="https://www.youtube.com/@skinnydev" target="_blank">"SkinnyDev"</a> for more Turkish Unity tutorials. Don't forget to join our Discord channel where a lot of game makers meet.</h4>
+<h4>You can check out my channel <a href="https://www.youtube.com/@skinnydev" target="_blank">"SkinnyDev"</a>  for more Turkish Unity tutorials. Don't forget to join our Discord channel where you can find a friendly community with tons of people related to game development.</h4>
 
   <a href="https://discord.gg/skinnydev">
   	<img src="https://upload.wikimedia.org/wikipedia/tr/thumb/c/c7/Discord_logo_new.svg/1200px-Discord_logo_new.svg.png" width="70">
