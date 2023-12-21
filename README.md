@@ -14,9 +14,11 @@
 * Events & Unity Events
   - We used some Events in our code to make it cleaner and communicate between core mechanic scripts and UI scripts such as displaying the UI.
 * Singleton Pattern
+  - Singleton is a creational design pattern that lets you ensure that a class has only one instance, while providing a global access point to this instance.
 * Observer Pattern
+  - Observer is a behavioral design pattern that lets you define a subscription mechanism to notify multiple objects about any events that happen to the object they’re observing.
 
-> If you are a `COMPLETE BEGINNER` to Unity and C#, this tutorial might be hard to understand. I prefer you watch this <a href="https://youtu.be/R6oUq_Tr04g?si=_HLgPjiIT1Lz-gHu" target="_blank">"Flappy Bird"</a> series first and then come watch this series.
+> If you are a `COMPLETE BEGINNER` to Unity and C#, this tutorial might be hard to understand. I prefer you watch this <a href="https://www.youtube.com/watch?v=R6oUq_Tr04g&list=PLWcP9q-zO2JqoH-_O8v4huhQYjA0oYIPa">"Flappy Bird"</a> series first and then come watch this series.
 
 ## How To Download
 
