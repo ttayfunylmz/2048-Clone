@@ -28,7 +28,7 @@
 ## Support
 <h4>You can check out my channel <a href="https://www.youtube.com/@skinnydev" target="_blank">"SkinnyDev"</a>  for more Turkish Unity tutorials. Don't forget to join our Discord channel where you can find a friendly community with tons of people related to game development.</h4>
 <div align="center">
-  <a href="https://discord.gg/skinnydev">
+  <a href="https://discord.gg/WMaqkSUHaU">
   	<img src="https://upload.wikimedia.org/wikipedia/tr/thumb/c/c7/Discord_logo_new.svg/1200px-Discord_logo_new.svg.png" width="70">
   </a>
 </div>
